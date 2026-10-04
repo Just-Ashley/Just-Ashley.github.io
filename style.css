@@ -1,1 +1,20 @@
+.blue{
+	background-color:#0000FF;
+}
 
+h1{
+	text-family:Helvetica;
+}
+
+p{
+	text-family:Arial;
+}
+
+h3{
+	text-family:Helvetica;
+}
+
+a{
+	color:#00FFFF;
+	font-stlye:italic;
+}
