@@ -27,3 +27,16 @@ a{
 	font-style:italic;
 	background-color:#00008B;
 }
+.button{
+	background-color:#0000AA;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+.button:hover{
+	filter:brightness(75%);
+}
+
+.button:active{
+	filter:brightness(50%);
+}
